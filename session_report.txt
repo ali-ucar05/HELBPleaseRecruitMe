@@ -1,0 +1,9 @@
+Kate  Vs (Roger) : +0
+Alice  Vs (Hugo) : -43
+Bob  Vs (Grace) : -29
+Felicity  Vs (Dave) : +18
+Cesar  Vs (Eve) : -10
+--------------------
+Current Score : -54
+Bonus Score : 0
+Final Score : -54
